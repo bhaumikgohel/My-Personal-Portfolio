@@ -1,0 +1,160 @@
+{
+  "bio": {
+    "picture": "https://media.licdn.com/dms/image/v2/D4D03AQFMA1WsgEUPhQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1707637039273?e=1772668800&v=beta&t=er9F8HnGt-8HLZghJOFHEy9x6D5l-3TLEcxwxtblyLo",
+    "name": "Bhaumik Gohel",
+    "title": "SDET & AI Agent Developer",
+    "tagline": "Building the Future of Automation, One Intelligent Agent at a Time.",
+    "about": "Results-driven Senior QA Automation Engineer with over 7 years of experience in manual, automation, and cross-browser testing. A strategic innovator and Inventor of the Smart AI Locator Chrome Extension, specializing in leveraging Agentic AI to accelerate dynamic locator generation and script conversion from Selenium to Playwright.",
+    "skills": {
+      "ai_skills": [
+        "AI",
+        "RAG",
+        "MCP",
+        "LangFlow",
+        "n8n",
+        "openCode",
+        "LLM",
+        "MCPs",
+        "Prompt Eng",
+        "GROQ",
+        "AI Agents",
+        "Ollama",
+        "LM Studio",
+        "Local LLM",
+        "Langchain",
+        "Generative AI",
+        "Google AI Studio",
+        "DeepEvAL",
+        "PromptFoo",
+        "Open AI Eval"
+      ],
+      "technical_skills": [
+        "Manual Testing",
+        "Automation Testing",
+        "Selenium WebDriver",
+        "TestNG",
+        "POM",
+        "Playwright Framework",
+        "Java",
+        "Maven",
+        "Postman",
+        "Jenkins",
+        "Playwright",
+        "Agentic AI",
+        "AI Agents",
+        "Cross-browser testing",
+        "Android & iOS testing",
+        "Web Automation",
+        "API"
+      ],
+      "tools_software": [
+        "Eclipse",
+        "Selenium IDE",
+        "Postman",
+        "Notepad++",
+        "Jenkins",
+        "Jira",
+        "TestLink",
+        "Google Anti gravity",
+        "OpenClaw"
+      ],
+      "soft_skills": [
+        "Team Collaboration",
+        "Agile Methodology",
+        "Daily Scrum Participation",
+        "Retrospective Meetings",
+        "QA Process Review"
+      ]
+    },
+    "socials": {
+      "github": "https://github.com/bhaumikgohel",
+      "linkedin": "https://www.linkedin.com/in/bhaumik-gohel-b166917a/",
+      "instagram": "https://www.instagram.com/bhaumik_gohel/",
+      "whatsapp": "https://wa.me/918320268294",
+      "email": "bhaumik41294@gmail.com"
+    },
+    "education": {
+      "degree": "B.E Information Technology",
+      "institution": "Atmiya Institute of Technology Science",
+      "period": "07/2015 – 07/2018",
+      "score": "8.4 CGPA"
+    },
+    "languages": [
+      "English",
+      "Hindi",
+      "Gujarati (Native)"
+    ]
+  },
+  "projects": [
+    {
+      "id": "selenium-converter-pro",
+      "title": "Universal Selenium to Playwright JS/TS Script Converter",
+      "description": "An advanced AI-powered converter that transforms Selenium Java, C#, Python, and Puppeteer code into modern Playwright TypeScript and JavaScript scripts seamlessly.",
+      "tags": [
+        "AI",
+        "Selenium",
+        "Playwright",
+        "TypeScript",
+        "Automation"
+      ],
+      "links": {
+        "live": "https://ai-universal-selenium2-playwright-j.vercel.app/",
+        "repo": "https://github.com/bhaumikgohel/AI-Universal-Selenium2Playwright_JSTS_Converter"
+      }
+    },
+    {
+      "id": "career-flow",
+      "title": "CareerFlow | Pro Career Dashboard",
+      "description": "A premium, local-first Kanban dashboard designed to streamline your job search journey. Track applications, manage interviews, and visualize your progress with a modern, glassmorphism-inspired UI.",
+      "tags": [
+        "AI",
+        "Career",
+        "Dashboard",
+        "Local-first"
+      ],
+      "links": {
+        "live": "https://ai-job-application-tracking.vercel.app/",
+        "repo": "https://github.com/bhaumikgohel/AI-Job-Application-Tracking"
+      }
+    },
+    {
+      "id": "smart-ai-locator",
+      "title": "Smart AI Locator (Chrome Extension)",
+      "description": "Inventor & Developer of a Chrome extension that leverages Agentic AI to accelerate dynamic locator generation and script conversion.",
+      "tags": [
+        "AI",
+        "Chrome Extension",
+        "Automation",
+        "QA"
+      ],
+      "links": {
+        "live": "https://chromewebstore.google.com/detail/ecpbfmcejhgamolhopadjigfegofkiok?utm_source=item-share-cb",
+        "repo": "#"
+      }
+    },
+    {
+      "id": "ai-testcase-generator",
+      "title": "AI Test Case Generator",
+      "description": "A privacy-focused, local-first AI Test Case Generator powered by Llama 3.2 and Ollama. This tool allows QA engineers to generate, classify, and archive professional test cases using local computer.",
+      "tags": [
+        "AI",
+        "Automation",
+        "QA"
+      ],
+      "links": {
+        "live": "https://ai-testcase-generator-nine.vercel.app/",
+        "repo": "https://github.com/bhaumikgohel/AI-Testcase-Generator"
+      }
+    }
+  ],
+  "achievements": [
+    "Generated AI Agents & AI Tools for QA and Automation.",
+    "Selenium Web driver Java – Udemy/Coursera",
+    "Employee of the Month for the year 2022 and 2023 at Amnex Infotech Pvt Ltd.",
+    "Achieved 64% success rate in MMRDA Automation Project."
+  ],
+  "contact": {
+    "email": "bhaumik41294@gmail.com",
+    "location": "Ahmedabad, Gujarat, India"
+  }
+}
