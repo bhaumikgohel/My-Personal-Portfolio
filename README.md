@@ -51,4 +51,4 @@ A premium, modern, and fully responsive portfolio website for SDET and AI Agent 
 - **Email**: [bhaumik41294@gmail.com](mailto:bhaumik41294@gmail.com)
 
 ---
-*Crafted with ❤️ and AI.*
+*Developed by Bhaumik Gohel with ❤️ and AI.*
