@@ -107,6 +107,22 @@
       }
     },
     {
+      "id": "crm-automation-ricepot",
+      "title": "Enterprise CRM Automation (RICEPOT Method)",
+      "description": "Enterprise-level Selenium automation framework for Free CRM using Java, Maven, and TestNG. Implements the RICEPOT method with ThreadLocal WebDriver for parallel execution and advanced Page Object Model architecture.",
+      "tags": [
+        "Java",
+        "Selenium",
+        "TestNG",
+        "Automation",
+        "POM"
+      ],
+      "links": {
+        "live": "#",
+        "repo": "https://github.com/bhaumikgohel/POM-Framework-using-RICEPOT-Method"
+      }
+    },
+    {
       "id": "selenium-converter-pro",
       "title": "Universal Selenium to Playwright JS/TS Script Converter",
       "description": "An advanced AI-powered converter that transforms Selenium Java, C#, Python, and Puppeteer code into modern Playwright TypeScript and JavaScript scripts seamlessly.",
