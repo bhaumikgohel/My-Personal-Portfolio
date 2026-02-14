@@ -16,11 +16,11 @@ const PORTFOLIO_DATA = {
                 "Manual Testing", "Automation Testing", "Selenium WebDriver", "TestNG", "POM",
                 "Playwright Framework", "Java", "Maven", "Postman", "Jenkins", "Playwright",
                 "Agentic AI", "AI Agents", "Cross-browser testing", "Android & iOS testing",
-                "Web Automation", "API"
+                "Web Automation", "API", "React", "Express", "SQLite"
             ],
             "tools_software": [
                 "Eclipse", "Selenium IDE", "Postman", "Notepad++", "Jenkins", "Jira",
-                "TestLink", "Google Anti gravity", "OpenClaw"
+                "TestLink", "Google Anti gravity", "OpenClaw", "SQLite"
             ],
             "soft_skills": [
                 "Team Collaboration", "Agile Methodology", "Daily Scrum Participation",
@@ -43,6 +43,16 @@ const PORTFOLIO_DATA = {
         "languages": ["English", "Hindi", "Gujarati (Native)"]
     },
     "projects": [
+        {
+            "id": "intelligent-test-plan-generator",
+            "title": "Intelligent Test Plan Generator",
+            "description": "A full-stack AI-powered application that automates test plan creation by integrating JIRA ticket data with LLM analysis. Features support for Groq, Ollama, and customizable PDF templates for professional QA workflows.",
+            "tags": ["AI", "JIRA", "React", "Express", "QA"],
+            "links": {
+                "live": "https://intelligent-test-plan-generator.onrender.com",
+                "repo": "https://github.com/bhaumikgohel/Intelligent-Test-Plan-Generator-Using-JIRA"
+            }
+        },
         {
             "id": "selenium-converter-pro",
             "title": "Universal Selenium to Playwright JS/TS Script Converter",

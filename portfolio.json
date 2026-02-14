@@ -45,7 +45,10 @@
         "Cross-browser testing",
         "Android & iOS testing",
         "Web Automation",
-        "API"
+        "API",
+        "React",
+        "Express",
+        "SQLite"
       ],
       "tools_software": [
         "Eclipse",
@@ -56,7 +59,8 @@
         "Jira",
         "TestLink",
         "Google Anti gravity",
-        "OpenClaw"
+        "OpenClaw",
+        "SQLite"
       ],
       "soft_skills": [
         "Team Collaboration",
@@ -86,6 +90,21 @@
     ]
   },
   "projects": [
+    {
+      "id": "intelligent-test-plan-generator",
+      "title": "Intelligent Test Plan Generator",
+      "description": "A full-stack AI-powered application that automates test plan creation by integrating JIRA ticket data with LLM analysis. Features support for Groq, Ollama, and customizable PDF templates for professional QA workflows.",
+      "tags": [
+        "AI",
+        "JIRA",
+        "React",
+        "Express",
+        "QA"
+      ],
+      "links": {
+        "repo": "https://github.com/bhaumikgohel/Intelligent-Test-Plan-Generator-Using-JIRA"
+      }
+    },
     {
       "id": "selenium-converter-pro",
       "title": "Universal Selenium to Playwright JS/TS Script Converter",
