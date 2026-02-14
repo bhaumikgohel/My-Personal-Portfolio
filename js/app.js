@@ -49,7 +49,7 @@ const PORTFOLIO_DATA = {
             "description": "A full-stack AI-powered application that automates test plan creation by integrating JIRA ticket data with LLM analysis. Features support for Groq, Ollama, and customizable PDF templates for professional QA workflows.",
             "tags": ["AI", "JIRA", "React", "Express", "QA"],
             "links": {
-                "live": "https://intelligent-test-plan-generator.onrender.com",
+                "live": "#",
                 "repo": "https://github.com/bhaumikgohel/Intelligent-Test-Plan-Generator-Using-JIRA"
             }
         },

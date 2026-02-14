@@ -102,6 +102,7 @@
         "QA"
       ],
       "links": {
+        "live": "#",
         "repo": "https://github.com/bhaumikgohel/Intelligent-Test-Plan-Generator-Using-JIRA"
       }
     },
